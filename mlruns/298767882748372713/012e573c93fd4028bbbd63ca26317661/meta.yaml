@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/012e573c93fd4028bbbd63ca26317661/artifacts
+end_time: 1727629120877
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: 012e573c93fd4028bbbd63ca26317661
+run_name: righteous-gnu-537
+run_uuid: 012e573c93fd4028bbbd63ca26317661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727629114441
+status: 3
+tags: []
+user_id: pcg

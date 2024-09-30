@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/52736d709388430fb564acb633968c11/artifacts
+end_time: 1727629630572
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: 52736d709388430fb564acb633968c11
+run_name: enthused-wren-145
+run_uuid: 52736d709388430fb564acb633968c11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727629626776
+status: 3
+tags: []
+user_id: pcg
