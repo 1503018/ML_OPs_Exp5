@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/b1285ba6cd48492c82a37793bbd01334/artifacts
+end_time: 1727761652667
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: b1285ba6cd48492c82a37793bbd01334
+run_name: masked-skunk-59
+run_uuid: b1285ba6cd48492c82a37793bbd01334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727761648352
+status: 3
+tags: []
+user_id: pcg

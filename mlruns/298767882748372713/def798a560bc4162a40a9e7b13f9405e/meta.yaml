@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/def798a560bc4162a40a9e7b13f9405e/artifacts
+end_time: 1727711448755
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: def798a560bc4162a40a9e7b13f9405e
+run_name: clumsy-swan-344
+run_uuid: def798a560bc4162a40a9e7b13f9405e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727711446787
+status: 3
+tags: []
+user_id: pcg

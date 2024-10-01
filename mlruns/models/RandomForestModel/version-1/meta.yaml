@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727761652658
+current_stage: None
+description: null
+last_updated_timestamp: 1727761652658
+name: RandomForestModel
+run_id: b1285ba6cd48492c82a37793bbd01334
+run_link: null
+source: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/b1285ba6cd48492c82a37793bbd01334/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/b1285ba6cd48492c82a37793bbd01334/artifacts/random_forest_model
+user_id: null
+version: 1

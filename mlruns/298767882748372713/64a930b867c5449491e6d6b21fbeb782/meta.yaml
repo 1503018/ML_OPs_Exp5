@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/64a930b867c5449491e6d6b21fbeb782/artifacts
+end_time: 1727711759584
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: 64a930b867c5449491e6d6b21fbeb782
+run_name: trusting-hare-109
+run_uuid: 64a930b867c5449491e6d6b21fbeb782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727711756789
+status: 3
+tags: []
+user_id: pcg

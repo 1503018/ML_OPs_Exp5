@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pcg/mlops/ML_OPs_Exp5/mlruns/298767882748372713/5e01d079fd964e6fa620a8ce791af9de/artifacts
+end_time: 1727761655006
+entry_point_name: ''
+experiment_id: '298767882748372713'
+lifecycle_stage: active
+run_id: 5e01d079fd964e6fa620a8ce791af9de
+run_name: shivering-crab-532
+run_uuid: 5e01d079fd964e6fa620a8ce791af9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727761652672
+status: 3
+tags: []
+user_id: pcg
