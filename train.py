@@ -124,7 +124,7 @@ def train_and_log_model():
         mlflow.log_metric("mse", mse1)
         mlflow.log_metric("r2", r21)
         mlflow.sklearn.log_model(model, "model")
-      
+      mlflow.end_run()
 
 # Define and train the model of LinearRegression
 def train_and_log_model2():
@@ -151,7 +151,8 @@ def train_and_log_model2():
         mlflow.log_metric("mse", mse)
         mlflow.log_metric("r2", r2)
         mlflow.sklearn.log_model(model, "model")
-        
+    mlflow.end_run()
+
 
 train_and_log_model()
 
