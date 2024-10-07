@@ -126,16 +126,15 @@ def train_and_log_model():
         mlflow.log_metric("mse", mse1)
         mlflow.log_metric("r2", r21)
         mlflow.sklearn.log_model(model, "model")
-        mlflow.register_model(f"runs:/{run.info.run_id}/random_forest_model", "RandomForestModel")
-        print(f"Run URL: {mlflow.active_run().info.artifact_uri}")
+        
 
-mlflow.end_run()
+    mlflow.end_run()
 
 # Define and train the model of LinearRegression
 def train_and_log_model2():
     with mlflow.start_run() as run:
     # Initialize the Linear Regression model
-        model = RandomForestRegressor()
+        model = LinearRegression()
 
     # Fit the model on the training data
         model.fit(X_train, y_train)
@@ -156,8 +155,9 @@ def train_and_log_model2():
         mlflow.log_metric("mse", mse)
         mlflow.log_metric("r2", r2)
         mlflow.sklearn.log_model(model, "model")
-        mlflow.register_model(f"runs:/{run.info.run_id}/linear_regression_model", "LinearRegressionModel")
-        print(f"Run URL: {mlflow.active_run().info.artifact_uri}")
+
+     mlflow.end_run()
+        
 
 train_and_log_model()
 
