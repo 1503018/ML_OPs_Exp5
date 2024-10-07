@@ -99,8 +99,6 @@ X[numerical_features] = scaler.fit_transform(X[numerical_features])
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 import mlflow
-import mlflow.sklearn
-mlflow.set_experiment("my_experiment")
 # Define and train the model of RandomForest Regression
 def train_and_log_model():
     with mlflow.start_run() as run:
